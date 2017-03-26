@@ -1,5 +1,5 @@
 # hello-world
-The end is the beginning is the end
+The End is the Beginning is the End
 
 What's up my friends, I'm a 2014 graduate of Augsburg College with a studio art degree. My passions
 are illustrating and designing, the sport of amateur wrestling, and just learning new skills in general.
